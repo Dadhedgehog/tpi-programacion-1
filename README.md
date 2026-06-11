@@ -19,4 +19,4 @@ realizar operaciones de alta, baja, modificación, búsqueda, filtrado, ordenami
 3. Asegúrate de que el archivo `paises.csv` esté en la misma carpeta que el script principal.
 4. Ejecuta el programa desde la terminal:
    ```bash
-   python TPI_Gestion_de_datos_de_paises.py
+   python TPI_Gestion_de_datos_paises.py
