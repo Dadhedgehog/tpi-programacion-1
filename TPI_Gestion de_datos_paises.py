@@ -8,7 +8,7 @@ Título: Gestión de Datos de Países
 import csv
 import os
 
-ARCH_CSV = "paises.csv"
+ARCH_CSV = "paises_TPI.csv"
 
 # 1. PERSISTENCIA Y CARGA DE DATOS (CSV)
 
