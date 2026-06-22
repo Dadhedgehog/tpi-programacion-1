@@ -20,4 +20,6 @@ realizar operaciones de alta, baja, modificación, búsqueda, filtrado, ordenami
 4. Ejecuta el programa desde la terminal:
    ```bash
    python TPI_Gestion_de_datos_paises.py
+
+
    https://youtu.be/uLrmxPvI5IM?si=kZLfvXS7_YGe2bQg
